@@ -1,0 +1,15 @@
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\bin\Debug\Mazes.exe.config
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\bin\Debug\Mazes.exe
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\bin\Debug\Mazes.pdb
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Debug\Mazes.csprojResolveAssemblyReference.cache
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Debug\MainWindow.g.cs
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Debug\App.g.cs
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Debug\Mazes_MarkupCompile.cache
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Debug\Mazes_MarkupCompile.lref
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Debug\MainWindow.baml
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Debug\Mazes.g.resources
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Debug\Mazes.Properties.Resources.resources
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Debug\Mazes.csproj.GenerateResource.Cache
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Debug\Mazes.csproj.CoreCompileInputs.cache
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Debug\Mazes.exe
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Debug\Mazes.pdb

@@ -1,0 +1,14 @@
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\bin\Release\Mazes.exe.config
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\bin\Release\Mazes.exe
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\bin\Release\Mazes.pdb
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Release\MainWindow.g.cs
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Release\App.g.cs
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Release\Mazes_MarkupCompile.cache
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Release\Mazes_MarkupCompile.lref
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Release\MainWindow.baml
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Release\Mazes.g.resources
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Release\Mazes.Properties.Resources.resources
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Release\Mazes.csproj.GenerateResource.Cache
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Release\Mazes.csproj.CoreCompileInputs.cache
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Release\Mazes.exe
+C:\Users\aberkane\Documents\Visual Studio 2017\Projects\Mazes\Mazes\obj\Release\Mazes.pdb
